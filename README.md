@@ -1,2 +1,2 @@
-# College-physics
-College physics class materials of CUC
+# 大学物理
+中国传媒大学《大学物理下》笔记、作业。
